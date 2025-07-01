@@ -28,4 +28,3 @@ https://beingrkn.me
   Complete Portfolio: <a href="https://beingrkn.me">beingrkn.me</a>
 </p>
 
-```![](https://github-readme-stats.vercel.app/api/top-langs/?username=beingrkn&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)```
