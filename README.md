@@ -9,19 +9,35 @@ Hi, I'm RKN!
 <img align="left" src="https://github.com/beingrkn/beingrkn.github.io/blob/main/images/raw4.jpg?raw=true" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
-```
-https://beingrkn.me
--------------------------
-💻 I’m a self-taught developer passionate about building innovative solutions.
-📝 I have a strong interest in Game Development.
-🌱 Learning about Machine Learning stuff
-🌟 Main language: Python
-🚩 Experience in Discord bot development, API creation, Flask backends, and full-stack workflows.
-💖 In a complicated relationship with Neural Networks
-🎵 Vibe to lofi and soft music.
-🔥Passionate about pushing limits, learning daily, and creating meaningful tech experiences.
-♟️I am a chess enthusiast.
-```
+# 👨‍💻 RKN
+
+### Building Communities & Worlds.
+
+18-year-old developer from India passionate about game development, managing communities, and building scalable digital experiences.
+
+---
+
+💻 **Currently:** Head of Operations at **R.O.T.I**, overseeing strategy for a Discord bot serving 16.85M+ members.
+
+🛠️ **Technical Lead:** Managing operations and web infrastructure at **Overlab.in**.
+
+🌱 **Learning:** Currently exploring **Game Development**.
+
+🚩 **Experience:** 5+ years in Discord bot development and custom Minecraft plugin architecture (Java/Spigot).
+
+💖 **In a relationship with:** Complex logic and high-performance community scaling.
+
+♟️ **Chess Enthusiast:** 1|0 Bullet Winner.
+
+---
+
+### 📡 Connect with me
+
+* **Discord:** [beingrkn](https://www.google.com/search?q=https://discord.com/users/beingrkn)
+* **Twitter/X:** [@mebeingrkn](https://x.com/mebeingrkn)
+* **Instagram:** [@beingrkn](https://instagram.com/rkn.irl)
+* **Portfolio:** [beingrkn.me](https://www.beingrkn.me/)
+
 <hr>
 
 <p align="center">
