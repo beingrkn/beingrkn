@@ -8,7 +8,7 @@ I like building practical systems that people actually use at scale.
 
 ## A quick picture of what I do
 
-I currently work as **Head of Operations** at [R.O.T.I](https://top.gg/bot/903690362114158632), where I help run strategy and operations for a top tier multipurpose Discord bot used across **65k+ communities** and **16.85M+ members** (with a **4.98/5 rating**).
+I currently work as **Head of Operations** at [R.O.T.I](https://top.gg/bot/903690362114158632), where I help run strategy and operations for a top tier multipurpose Discord bot used across **71k+ communities** and **16.85M+ members** (with a **4.98/5 rating**).
 
 I am also **Technical Lead** at [Overlab.in](https://beingrkn-newportfolio.vercel.app/), where I oversee technical operations, coordinate developers, and built and currently manage the website.
 
@@ -119,7 +119,6 @@ Watch: [Game devlog](https://www.youtube.com/watch?v=ULL151OcQ1s)
 - X: [@mebeingrkn](https://x.com/mebeingrkn)
 - Instagram: [@beingrkn](https://instagram.com/beingrkn)
 - Discord: beingrkn
-- Email: connectwithrkn@gmail.com
 
 Reference links from experience:
 - R.O.T.I: [top.gg listing](https://top.gg/bot/903690362114158632)
