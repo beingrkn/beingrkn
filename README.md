@@ -110,7 +110,7 @@ Watch: [Game devlog](https://www.youtube.com/watch?v=ULL151OcQ1s)
 ## Tech I use
 
 - Languages: Python, Java, TypeScript, JavaScript, C#, GDScript
-- Frameworks/APIs: React, Flask, Discord.py, Spigot API, Discord 
+- Frameworks/APIs: React, Flask, Discord.py, Spigot API
 - Database: MongoDB
 
 
